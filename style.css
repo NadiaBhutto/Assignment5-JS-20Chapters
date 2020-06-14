@@ -1,0 +1,9 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.bg-custom{
+	background-image: url(header.jpg);
+	background-size: cover;
+}
